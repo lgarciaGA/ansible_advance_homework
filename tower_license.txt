@@ -1,0 +1,3 @@
+# BEGIN ANSIBLE MANAGED BLOCK
+{'subscription_name': 'Ansible Tower by Red Hat (50 Managed Nodes), RHT Internal', 'eula_accepted': True, 'hostname': '7f66ae09820a45ef8f1554d6413fa599', 'instance_count': 50, 'trial': True, 'contact_email': 'tok@redhat.com', 'company_name': 'Red Hat', 'license_type': 'enterprise', 'contact_name': 'Tony Kay', 'license_date': 1581523619, 'license_key': 'eea1b84d1e39cfc92a4d25739066069e60c6d02b7535c29cc61b2a2a27acbe75'}
+# END ANSIBLE MANAGED BLOCK
